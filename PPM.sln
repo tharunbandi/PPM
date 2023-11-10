@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Prolifics Project Manager", "New Prolifics Project Manager.csproj", "{BC9F8832-0BBF-4230-A0BE-E91ACB74D2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.Domain", "PPM.Domain\PPM.Domain.csproj", "{1FF390D0-36C2-4C09-A440-2B564609D220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9F8832-0BBF-4230-A0BE-E91ACB74D2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9F8832-0BBF-4230-A0BE-E91ACB74D2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9F8832-0BBF-4230-A0BE-E91ACB74D2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9F8832-0BBF-4230-A0BE-E91ACB74D2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF390D0-36C2-4C09-A440-2B564609D220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF390D0-36C2-4C09-A440-2B564609D220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF390D0-36C2-4C09-A440-2B564609D220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF390D0-36C2-4C09-A440-2B564609D220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
