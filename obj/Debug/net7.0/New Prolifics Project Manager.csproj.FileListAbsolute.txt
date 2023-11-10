@@ -1,0 +1,5 @@
+C:\Users\TBandi\Desktop\New Prolifics Project Manager\obj\Debug\net7.0\New Prolifics Project Manager.csproj.AssemblyReference.cache
+C:\Users\TBandi\Desktop\New Prolifics Project Manager\obj\Debug\net7.0\New Prolifics Project Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBandi\Desktop\New Prolifics Project Manager\obj\Debug\net7.0\New Prolifics Project Manager.AssemblyInfoInputs.cache
+C:\Users\TBandi\Desktop\New Prolifics Project Manager\obj\Debug\net7.0\New Prolifics Project Manager.AssemblyInfo.cs
+C:\Users\TBandi\Desktop\New Prolifics Project Manager\obj\Debug\net7.0\New Prolifics Project Manager.csproj.CoreCompileInputs.cache
